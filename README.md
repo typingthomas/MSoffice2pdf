@@ -11,8 +11,9 @@ Simple CLI python program that will convert Microsoft Office files (.docx, .doc,
 
 ### Common Issues
 
-1. MS 365 applications are not installed - this program uses PyWin32 which relies on these programs
-2. Path to target folder may be incorrect
-3. Python might not be installed 
-4. Any other issues please report :)
+1. If file is corrupted it will not convert
+2. MS 365 applications are not installed - this program uses PyWin32 which relies on these programs
+3. Path to target folder may be incorrect
+4. Python might not be installed 
+5. Any other issues please report :)
 
